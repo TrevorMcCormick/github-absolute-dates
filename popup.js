@@ -46,12 +46,12 @@ document.addEventListener('DOMContentLoaded', function() {
     
     function updateButtonUI(isAbsolute) {
       if (isAbsolute) {
-        toggleButton.textContent = 'Switch to Relative Dates';
-        statusText.textContent = 'Currently showing: Absolute Dates';
-        statusText.style.color = '#2ea44f';
-      } else {
         toggleButton.textContent = 'Switch to Absolute Dates';
         statusText.textContent = 'Currently showing: Relative Dates';
+        statusText.style.color = '#2ea44f';
+      } else {
+        toggleButton.textContent = 'Switch to Relative Dates';
+        statusText.textContent = 'Currently showing: Absolute Dates';
         statusText.style.color = '#0969da';
       }
     }
