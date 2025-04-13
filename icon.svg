@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="45" fill="#4078c0" />
+  
+  <!-- Clock face -->
+  <circle cx="50" cy="50" r="40" fill="white" />
+  
+  <!-- Clock center -->
+  <circle cx="50" cy="50" r="3" fill="#4078c0" />
+  
+  <!-- Hour hand -->
+  <line x1="50" y1="50" x2="50" y2="25" stroke="#4078c0" stroke-width="4" stroke-linecap="round" />
+  
+  <!-- Minute hand -->
+  <line x1="50" y1="50" x2="70" y2="50" stroke="#4078c0" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Calendar symbols -->
+  <rect x="32" y="65" width="36" height="5" fill="#4078c0" rx="1" />
+  <rect x="32" y="73" width="36" height="5" fill="#4078c0" rx="1" />
+</svg>
