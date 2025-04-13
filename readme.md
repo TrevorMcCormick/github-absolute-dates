@@ -21,8 +21,8 @@ A simple Chrome extension that replaces GitHub's relative dates (like "2 days ag
 
 ## Functionality
 
-### Before
+### Relative
 ![Relative](/screenshots/relative.png)
 
-### After
-![After](/screenshots/after.png)
+### Absolute
+![Absolute](/screenshots/absolute.png)
