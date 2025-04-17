@@ -11,6 +11,10 @@ A simple Chrome extension that replaces GitHub's relative dates (like "2 days ag
 
 ## Installation Instructions
 
+### Install from the Chrome Web Extensions site
+
+[github-absolute-dates](https://chromewebstore.google.com/detail/github-absolute-dates/jionnaajmghaljaepkafpdhphdcniiii?authuser=0&hl=en)
+
 ### Loading the Unpacked Extension in Chrome:
 
 1. Download and extract this repository to a folder on your computer
